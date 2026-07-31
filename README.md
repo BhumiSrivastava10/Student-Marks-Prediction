@@ -3,8 +3,7 @@
 A machine learning web app that predicts a student's expected marks based on their daily study hours, built with a Linear Regression model and deployed using Streamlit.
 
 ## 🔗 Live Demo
-[Add your Streamlit Cloud link here after deployment]
-
+https://bhumi-marks-predictor.streamlit.app/
 ## 📌 About
 This project uses a Linear Regression model trained on study-hours vs marks data to predict a student's expected score. Users enter their daily study hours (between 4–12) and get an instant predicted marks output, along with a visual progress indicator.
 
